@@ -11,11 +11,9 @@ paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-20086-1_31'
         <img src="../images/teasers/eccv2022.png">  
     </div> 
     <div class="column" style="float:left;width:70%"> 
-     	   <u>we present an unsupervised method to generate consistent semantic keypoints from point clouds explicitly</u>
-    </div>
+            <b>Haocheng Yuan</b>, Chen Zhao, Shichao Fan, Jiaxi Jiang, Jiaqi Yang<br>
 
 </div>
 
 [Download paper here](https://link.springer.com/chapter/10.1007/978-3-031-20086-1_31)
 
-**Haocheng Yuan**, Chen Zhao, Shichao Fan, Jiaxi Jiang, Jiaqi Yang
