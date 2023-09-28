@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Unsupervised_learning_of_3d_semantic_keypoints_with_mutual_reconstruction
 date: 2022-10-8
 venue: 'European Conference on Computer Vision (ECCV)'
-paperurl: 'https://arxiv.org/pdf/2210.04026.pdf'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-20086-1_31'
 ---
 <div class="row">   
     <div class="column" style="float:left;width:30%">    
@@ -16,6 +16,6 @@ paperurl: 'https://arxiv.org/pdf/2210.04026.pdf'
 
 </div>
 
-[Download paper here](https://arxiv.org/pdf/2210.04026.pdf)
+[Download paper here](https://link.springer.com/chapter/10.1007/978-3-031-20086-1_31)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+**Haocheng Yuan**, Chen Zhao, Shichao Fan, Jiaxi Jiang, Jiaqi Yang
