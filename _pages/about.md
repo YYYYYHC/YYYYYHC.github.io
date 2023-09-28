@@ -19,4 +19,4 @@ Looking for cooperation!
 
 Reach me if you have experience on OpenScad design and want some audiance on top-tier research conference like CVPR2024 & Siggraph2024.
 
-Join us in discord if you are interested in parametric shape design. We are doing research to 
+Join us in discord if you are interested in parametric shape design. Let's make some difference!
