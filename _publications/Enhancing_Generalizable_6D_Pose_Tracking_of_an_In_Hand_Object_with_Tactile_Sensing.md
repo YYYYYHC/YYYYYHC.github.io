@@ -2,7 +2,7 @@
 title: "Enhancing Generalizable 6D Pose Tracking of an In-Hand Object with Tactile Sensing"
 collection: publications
 permalink: /publication/Enhancing_Generalizable_6D_Pose_Tracking_of_an_In_Hand_Object_with_Tactile_Sensing
-excerpt: 'We present a tactile-enhanced generalizable 6D pose tracking design named TEG-Track to track previously unseen in-hand objects.'
+excerpt: 'Xiaomeng Xu, Yun Liu, Weihang Chen, **Haocheng Yuan**, He Wang, Jing Xu, Rui Chen, Li Yi'
 date: 20-10-01
 venue: 'arxiv'
 paperurl: 'https://arxiv.org/pdf/2210.04026'
@@ -20,4 +20,3 @@ paperurl: 'https://arxiv.org/pdf/2210.04026'
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Xiaomeng Xu, Yun Liu, Weihang Chen, **Haocheng Yuan**, He Wang, Jing Xu, Rui Chen, Li Yi
