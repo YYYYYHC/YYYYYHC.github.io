@@ -8,7 +8,7 @@ paperurl: 'https://arxiv.org/pdf/2210.04026'
 ---
 <div class="row">   
     <div class="column" style="float:left;width:30%">    
-        <img src="../images/teasers/icra_.png">  
+        <img src="../images/teasers/icra.png">  
     </div> 
     <div class="column" style="float:left;width:70%"> 
      	   Xiaomeng Xu, Yun Liu, Weihang Chen, <b>Haocheng Yuan</b>, He Wang, Jing Xu, Rui Chen, Li Yi<br>
