@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mr. Yuan"
-  avatar           : "profile.png"
-  bio              : "I am a first year PhD student at the University of Edinburgh"
+  name             : "Haocheng Yuan"
+  avatar           : "profile.JPG"
+  bio              : "Modeling, 3D Vision"
   location         : "Edinburgh, UK"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=A50bS8EAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
