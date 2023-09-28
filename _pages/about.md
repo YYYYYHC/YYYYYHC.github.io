@@ -17,5 +17,5 @@ Besides research, I love writing (in Chinese), badminton, jogging and cooking. F
 
 Looking for cooperation!
 
-Contact me if you have experience in OpenScad design and want some audience at top-tier research conferences like CVPR2024 \& Siggraph2024. Let's make some difference!
+Contact me if you have experience in OpenScad design and want some audience at top-tier research conferences like CVPR2024 /& Siggraph2024. Let's make some difference!
 
