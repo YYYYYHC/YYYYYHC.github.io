@@ -2,7 +2,7 @@
 title: "CADTalk: An Algorithm and Benchmark for Semantic Commenting of CAD Programs"
 collection: publications
 permalink: /publication/CADTalk
-date: 2024
+date: 2024-1-1
 venue: 'CVPR (Highlight)'
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2024/papers/Yuan_CADTalk_An_Algorithm_and_Benchmark_for_Semantic_Commenting_of_CAD_CVPR_2024_paper.pdf'
 ---
