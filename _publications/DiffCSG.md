@@ -2,7 +2,7 @@
 title: "DiffCSG: Differentiable CSG via Rasterization"
 collection: publications
 permalink: /publication/DiffCSG
-date: 2024
+date: 2024-1-1
 venue: 'Siggraph Asia Conference Track'
 paperurl: 'https://arxiv.org/pdf/2409.01421'
 ---

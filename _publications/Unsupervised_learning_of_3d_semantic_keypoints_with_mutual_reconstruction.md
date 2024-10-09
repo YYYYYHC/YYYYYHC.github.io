@@ -2,7 +2,7 @@
 title: "Unsupervised learning of 3d semantic keypoints with mutual reconstruction"
 collection: publications
 permalink: /publication/Unsupervised_learning_of_3d_semantic_keypoints_with_mutual_reconstruction
-date: 2022
+date: 2022-1-1
 venue: 'ECCV'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-20086-1_31'
 ---
