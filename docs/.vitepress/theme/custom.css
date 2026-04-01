@@ -246,8 +246,8 @@
 
 /* Bio section */
 .bio-section {
-  padding: 1.5rem;
-  margin: 1rem 0 2rem 0;
+  padding: 0.1rem 0.75rem;
+  margin: 0.1rem 0 0.5rem 0;
   background: var(--vp-c-bg-soft);
   border-radius: 8px;
   border-left: 4px solid var(--vp-c-brand-1);
