@@ -61,6 +61,7 @@ export default defineConfig({
 
   // 简约冷淡风格的自定义样式
   head: [
+    ['link', { rel: 'icon', href: '/avatar.jpg' }],
     ['style', {}, `
       :root {
         --vp-c-brand-1: #646cff;
