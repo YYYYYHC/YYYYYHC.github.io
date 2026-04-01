@@ -23,7 +23,7 @@ layout: home
 <div class="bio-section">
   I am a third-year PhD candidate at the University of Edinburgh, supervised by Dr. <a href="https://enigma-li.github.io/" class="pub-link">Changjian Li</a>. My research interests center on Computer-Aided Design (CAD), specifically developing computational algorithms that automatically perceive, create, and manipulate CAD content. My goal is to build human-in-the-loop systems that minimize the friction between a designer’s intent and its digital execution. 
 
-  Outside of the lab, I play badminton, skiing and photographing. I also enjoy competitive gaming, reaching the top 100 in EUW in Teamfight Tactics (TFT).
+  Outside of the lab, I enjoy hiking, badminton, skiing and photographing. I also play competitive games, reaching the top 100 in EUW in Teamfight Tactics (TFT).
 </div>
 
 ## Publications
